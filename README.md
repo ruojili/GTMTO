@@ -1,5 +1,5 @@
 # GTMTO
-Codes and raw data for paper "Game theory based multi-material topology optimization".
+Codes for paper "Game theory based multi-material topology optimization" in the journal "Structural and Multidisciplinary Optimization".
 
 Refer to the following references for further information of the function 'fsparse':
 
